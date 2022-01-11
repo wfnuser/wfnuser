@@ -1,4 +1,8 @@
 ### Hi there 👋
+你好，我是「微扰理论」。目前正在连载国服每日一题题解；也是极客时间专栏《算法实战高手课》的作者。
+欢迎关注我的个人公众号「微扰理论」。
+
+[![wfnuser's github stats](https://github-readme-stats.vercel.app/api?username=wfnuser)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wfnuser/wfnuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
