@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Foo](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-@%E5%BE%AE%E6%89%B0%E7%90%86%E8%AE%BA-000000.svg?style=flat&logo=WeChat&color=yellow)](https://gitee.com/wfnuser/img/raw/master/mp.jpeg)
+
 你好，我是「微扰理论」。[微扰酱](https://leetcode-cn.com/u/wfnuser/)目前正在连载国服每日一题题解；也是极客时间专栏[《算法实战高手课》](https://time.geekbang.org/column/intro/100100901?code=I%252F1%252FovCrth0wXifam7LWC3eGnJy9VdcYcfWACA1NG%252Fk%253D&utm_term=SPoster&page=A)的作者。
 
 全职工作是 [EMQ X](https://emqx.com) 的存储工程师。
