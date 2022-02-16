@@ -5,7 +5,7 @@
 工作之余，也在北京五道口开了一家剧本杀店。[「悖论13」](http://www.dianping.com/shop/G3e08uNvVM4U5Hg3)，在北京的朋友们可以来找我玩。
 
 如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接扫码加微扰酱v，交个朋友； 备注来意即可～
-![](qr.jpeg) ![](perturbation.jpg)
+![](banner.png)
 
 [![wfnuser's github stats](https://github-readme-stats.vercel.app/api?username=wfnuser)](https://github.com/anuraghazra/github-readme-stats)
 
