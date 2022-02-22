@@ -1,4 +1,4 @@
-<h1 align="center">你好👋 我是微扰理论！</h1>
+<h1 align="center">你好👋 我是微扰理论</h1>
 <h3 align="center">要去更远的地方 见更大的世界 帮助更多的人</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfnuser" alt="wfnuser"/></a></p>
