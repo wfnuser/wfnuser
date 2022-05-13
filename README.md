@@ -5,7 +5,9 @@
  
 [![Foo](https://pic.leetcode-cn.com/1641890108-KiCpre-file_1641890104115)](https://www.zhihu.com/people/qin-hao-37) 
 
-[hashdata](https://www.hashdata.xyz/) 正在招募数据库内核工程师 简历内推可以直接发到huangqinghao@hashdata.cn 或扫描我的微信二维码联系我哦 **入职即享20天年假；岗位匹配更可远程办公**～
+[hashdata](https://www.hashdata.xyz/) 正在招募数据库内核工程师 简历内推可以直接发到 huangqinghao@hashdata.cn 或扫描我的微信二维码联系我哦 
+
+**入职即享20天年假；岗位匹配更可远程办公**～
 
 你好，我是[「**微扰理论**」](https://leetcode-cn.com/u/wfnuser/)，最大特点是又菜又爱玩。目前正在连载国服每日一题题解；也是极客时间专栏[《算法实战高手课》](https://time.geekbang.org/column/intro/100100901?code=I%252F1%252FovCrth0wXifam7LWC3eGnJy9VdcYcfWACA1NG%252Fk%253D&utm_term=SPoster&page=A)的作者；欢迎订阅，一起学习工程实战中的算法；需要的话可以找我返现哦～
 
