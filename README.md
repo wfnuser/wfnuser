@@ -24,11 +24,12 @@
 <!-- 工作之余，也在北京五道口开了一家剧本杀店。[「悖论13」](http://www.dianping.com/shop/G3e08uNvVM4U5Hg3)，在北京的朋友们可以来找我玩。 -->
 
 如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
-![](banner.png)
+![](banner.jpg)
 
 ## Recent Posts
+* [写于「悖论13」撤店之际](https://mp.weixin.qq.com/s/0fxwFS38ex7wXkSAJsRQyw)
+* [Postgres 并行查询源码分析](https://mp.weixin.qq.com/s/ehhPOcSModd0pzVhXELI6g)
 * [ORCA 优化器浅析](https://mp.weixin.qq.com/s/1KnxeC7id1Gi5wD7HOu4sQ)
-* [Rust 和 Haskell 编程哲学（上）](https://mp.weixin.qq.com/s/lioFHcxgrv-_sANZQtUURg)
 * [如何盲拧魔方](https://mp.weixin.qq.com/s?__biz=Mzg4NzY3NDQzMQ==&mid=2247483773&idx=1&sn=ba8465f313595be8000e810e883db9e5&chksm=cf87822df8f00b3b7530006daef791b660c8150b7c6b85560f2d5370f7e2c151a3c3d6a34c94#rd)
 * [如何心算4位数乘法](https://mp.weixin.qq.com/s?__biz=Mzg4NzY3NDQzMQ==&mid=2247483756&idx=1&sn=51a1b1f921a89a9aabfb32e2c893a836&chksm=cf87823cf8f00b2a2eec13f02ff9cd14b991aedcde19a18057ca974bdf338ec0fac5e9c8107d#rd)
 
