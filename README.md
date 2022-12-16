@@ -27,6 +27,7 @@
 ![](banner.jpg)
 
 ## Recent Posts
+* [一次年轻人的新冠通关之旅](https://mp.weixin.qq.com/s/79TI0fAMTdqIHyMmd3r9cg)
 * [写于「悖论13」撤店之际](https://mp.weixin.qq.com/s/0fxwFS38ex7wXkSAJsRQyw)
 * [Postgres 并行查询源码分析](https://mp.weixin.qq.com/s/ehhPOcSModd0pzVhXELI6g)
 * [ORCA 优化器浅析](https://mp.weixin.qq.com/s/1KnxeC7id1Gi5wD7HOu4sQ)
