@@ -16,7 +16,7 @@
 
 [**简历一键投递**](https://app.mokahr.com/recommendation-recruitment/hashdata/58045?recommendCode=NTAMlhQ&hash=%23%2Fjob%2Ff9bdf2a3-e8b7-4ad1-a2e3-1fe65da31cae%3Ffrom%3Dqrcode%26isRecommendation%3Dtrue) 
 
-## About me
+## 关于我
 你好，我是[「**微扰理论**」](https://leetcode-cn.com/u/wfnuser/)，18年毕业于上海交通大学，做过前端也搞过算法，最大特点是**又菜又爱玩**。最近刚刚入坑数据库，**纯小白**，还请大家多多指教。目前正在连载国服每日一题题解；也是极客时间专栏[《算法实战高手课》](https://time.geekbang.org/column/intro/100100901?code=I%252F1%252FovCrth0wXifam7LWC3eGnJy9VdcYcfWACA1NG%252Fk%253D&utm_term=SPoster&page=A)的作者；欢迎订阅，一起学习工程实战中的算法；需要的话可以找我返现哦～
 
 「微扰酱」最近主要在学习 type theory 和 database 。
@@ -25,7 +25,7 @@
 如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
 ![](banner.jpg)
 
-## Recent Posts
+## 最近文章
 * [一次年轻人的新冠通关之旅](https://mp.weixin.qq.com/s/79TI0fAMTdqIHyMmd3r9cg)
 * [写于「悖论13」撤店之际](https://mp.weixin.qq.com/s/0fxwFS38ex7wXkSAJsRQyw)
 * [Postgres 并行查询源码分析](https://mp.weixin.qq.com/s/ehhPOcSModd0pzVhXELI6g)
