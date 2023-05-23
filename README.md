@@ -5,6 +5,11 @@
  
 [![Foo](https://pic.leetcode-cn.com/1641890108-KiCpre-file_1641890104115)](https://www.zhihu.com/people/qin-hao-37) 
 
+## 社区活动
+目前正在组织一周一次的[技术分享和英语沙龙](https://fvj06j66fob.feishu.cn/wiki/wikcnD5weFX2jpDG4ZZge6gBjHh)，欢迎加群围观。v: wfnusee。
+
+## 岗位内推
+
 [hashdata](https://www.hashdata.xyz/) 正在招募数据库内核工程师 简历内推可以直接[一键投递](https://app.mokahr.com/recommendation-recruitment/hashdata/58045?recommendCode=NTAMlhQ&hash=%23%2Fjob%2Ff9bdf2a3-e8b7-4ad1-a2e3-1fe65da31cae%3Ffrom%3Dqrcode%26isRecommendation%3Dtrue) 或扫描我的微信二维码联系我哦 
 
 **入职即享20天年假；岗位匹配更可远程办公**～
