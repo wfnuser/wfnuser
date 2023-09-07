@@ -1,3 +1,7 @@
+<h1 align="center">Hi👋 I'm Qinghao.</h1>
+
+I'm a database kernel developer and a passionate open-source software enthusiast. I have a strong passion for building high-performance database systems and actively contribute to the open-source community.
+
 <h1 align="center">你好👋 我是微扰理论</h1>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfnuser" alt="wfnuser"/></a></p>
