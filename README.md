@@ -2,7 +2,7 @@
 
 I'm a database kernel developer and a passionate open-source software enthusiast. I have a strong passion for building high-performance database systems and actively contribute to the open-source community.
 
-👋 Open to job opportunities in the field of Software Engineering
+👋 Open to job opportunities in the field of Software Engineering.
 
 <h1 align="center">你好👋 我是微扰理论</h1>
 
@@ -24,7 +24,7 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 <!-- 工作之余，也在北京五道口开了一家剧本杀店。[「悖论13」](http://www.dianping.com/shop/G3e08uNvVM4U5Hg3)，在北京的朋友们可以来找我玩。 -->
 
 如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
-![](banner.jpg)
+![](banner.png)
 
 ## 最近文章
 * [一次年轻人的新冠通关之旅](https://mp.weixin.qq.com/s/79TI0fAMTdqIHyMmd3r9cg)
