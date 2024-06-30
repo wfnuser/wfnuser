@@ -14,14 +14,13 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 ## 社区活动
 目前正在组织一周一次的[技术分享和英语沙龙](https://fvj06j66fob.feishu.cn/wiki/wikcnD5weFX2jpDG4ZZge6gBjHh)，欢迎加群围观。v: wfnusee。
 
-## 岗位内推
-数据库内核和开源基础软件相关岗位可帮忙推荐，欢迎联系。
-
 ## 关于我
-你好，我是[「**微扰理论**」](https://leetcode-cn.com/u/wfnuser/)，18年毕业于上海交通大学，做过前端也搞过算法，最大特点是**又菜又爱玩**。已经入坑数据库一段时间，还请大家多多指教。微扰酱也是极客时间专栏[《算法实战高手课》](https://time.geekbang.org/column/intro/100100901?code=I%252F1%252FovCrth0wXifam7LWC3eGnJy9VdcYcfWACA1NG%252Fk%253D&utm_term=SPoster&page=A)的作者；欢迎订阅，一起学习工程实战中的算法；需要的话可以找我返现哦～
+你好，我是[「**微扰理论**」](https://leetcode-cn.com/u/wfnuser/)，18年毕业于上海交通大学，做过前端也搞过算法。目前有一份某公有云初创公司的全职远程工作，相比于以前的工作自由了许多。未来将会在追求自由的道路上不断前行，期待在路上可以认识更多志趣相投的人。
 
-「微扰酱」最近主要在学习 type theory 和 database 。
-<!-- 工作之余，也在北京五道口开了一家剧本杀店。[「悖论13」](http://www.dianping.com/shop/G3e08uNvVM4U5Hg3)，在北京的朋友们可以来找我玩。 -->
+本人已经入坑数据库一段时间，还请大家多多指教。微扰酱也是极客时间专栏[《算法实战高手课》](https://time.geekbang.org/column/intro/100100901?code=I%252F1%252FovCrth0wXifam7LWC3eGnJy9VdcYcfWACA1NG%252Fk%253D&utm_term=SPoster&page=A)的作者；欢迎订阅，一起学习工程实战中的算法；需要的话可以找我返现哦～
+
+「微扰酱」最近在业余时间里主要研究向量数据库和区块链，并和朋友一起维护 [YouBet-Dao](https://www.github.com/youbetdao)。
+~~工作之余，也在北京五道口开了一家剧本杀店。[「悖论13」](http://www.dianping.com/shop/G3e08uNvVM4U5Hg3)，在北京的朋友们可以来找我玩。~~ 已经倒闭，勿念。
 
 如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
 ![](banner.png)
