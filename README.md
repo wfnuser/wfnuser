@@ -1,3 +1,8 @@
+# 远程公社2群入口 - 限时开放
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/47e9b48f-01e1-4318-a4d0-af99c8abc4f3">
+
+
 <h1 align="center">Hi👋 I'm Qinghao.</h1>
 
 I'm a database kernel developer and a passionate open-source software enthusiast. I have a strong passion for building high-performance database systems and actively contribute to the open-source community.
