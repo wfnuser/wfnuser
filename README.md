@@ -26,10 +26,6 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
 ![](banner.png)
 
-## 远程公社2群入口 - 限时开放
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/47e9b48f-01e1-4318-a4d0-af99c8abc4f3">
-
 ## 最近文章
 * [周游世界的代码家 - 写在数字游民日](https://mp.weixin.qq.com/s/7nNlduIQLvy1ExKZjbVazQ)
 * [写于「悖论13」撤店之际](https://mp.weixin.qq.com/s/0fxwFS38ex7wXkSAJsRQyw)
