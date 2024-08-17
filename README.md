@@ -23,8 +23,6 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 
 ~~工作之余，也在北京五道口开了一家剧本杀店。[「悖论13」](http://www.dianping.com/shop/G3e08uNvVM4U5Hg3)，在北京的朋友们可以来找我玩。~~ 已经倒闭，勿念。
 
-如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
-![](banner.png)
 
 ## 最近文章
 * [周游世界的代码家 - 写在数字游民日](https://mp.weixin.qq.com/s/7nNlduIQLvy1ExKZjbVazQ)
@@ -42,3 +40,7 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/wfnuser/count.svg)
+
+如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
+![](banner.png)
+
