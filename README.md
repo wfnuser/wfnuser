@@ -9,7 +9,7 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfnuser" alt="wfnuser"/></a></p>
  -->
 
-![X Badge](https://img.shields.io/badge/X-wfnuser-blue)
+[![X Badge](https://img.shields.io/badge/X-wfnuser-blue)](https://www.x.com/wfnuser)
 [![Foo](https://pic.leetcode-cn.com/1641890108-KiCpre-file_1641890104115)](https://www.zhihu.com/people/qin-hao-37) 
 
 ## 社区活动
