@@ -20,7 +20,7 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 
 本人已经入坑数据库一段时间，还请大家多多指教。微扰酱也是极客时间专栏[《算法实战高手课》](https://time.geekbang.org/column/intro/100100901?code=I%252F1%252FovCrth0wXifam7LWC3eGnJy9VdcYcfWACA1NG%252Fk%253D&utm_term=SPoster&page=A)的作者；欢迎订阅，一起学习工程实战中的算法；需要的话可以找我返现哦～
 
-「微扰酱」最近在业余时间里主要研究向量数据库和区块链，并和朋友一起维护 [YouBet-Dao](https://www.github.com/youbetdao)。
+「微扰酱」最近在业余时间里主要研究密码学和区块链，并和朋友一起维护 [YouBet-Dao](https://www.github.com/youbetdao)。
 
 ~~工作之余，也在北京五道口开了一家剧本杀店。[「悖论13」](http://www.dianping.com/shop/G3e08uNvVM4U5Hg3)，在北京的朋友们可以来找我玩。~~ 已经倒闭，勿念。
 
