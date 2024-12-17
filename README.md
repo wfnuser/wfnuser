@@ -11,7 +11,7 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 
 [![X Badge](https://img.shields.io/badge/X-wfnuser-blue)](https://www.x.com/wfnuser)
 [![Foo](https://pic.leetcode-cn.com/1641890108-KiCpre-file_1641890104115)](https://www.zhihu.com/people/qin-hao-37) 
-推特求个关注啦 对目前在做独立开发的我来说就算莫大的支持了 动态也会首发X
+推特求个fo 对目前在做独立开发的我来说就算莫大的支持了 动态也会首发X
 
 ## 社区活动
 目前正在组织一周一次的[技术分享和英语沙龙](https://fvj06j66fob.feishu.cn/wiki/wikcnD5weFX2jpDG4ZZge6gBjHh)，欢迎加群围观。v: wfnusee。
