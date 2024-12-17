@@ -1,10 +1,10 @@
-<h1 align="center">Hi👋 I'm Qinghao.</h1>
+<h1 align="center">Hi👋 I'm <a href="https://x.com/wfnuser">Qinghao</a>.</h1>
 
 I'm a database kernel developer and a passionate open-source software enthusiast. I have a strong passion for building high-performance database systems and actively contribute to the open-source community.
 
 👋 Open to job opportunities in the field of Software Engineering.
 
-<h1 align="center">你好👋 我是微扰理论</h1>
+<h1 align="center">你好👋 我是<a href="https://x.com/wfnuser">微扰理论</a> </h1>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfnuser" alt="wfnuser"/></a></p>
  -->
@@ -16,7 +16,7 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 目前正在组织一周一次的[技术分享和英语沙龙](https://fvj06j66fob.feishu.cn/wiki/wikcnD5weFX2jpDG4ZZge6gBjHh)，欢迎加群围观。v: wfnusee。
 
 ## 关于我
-你好，我是[「**微扰理论**」](https://leetcode-cn.com/u/wfnuser/)，18年毕业于上海交通大学，做过前端也搞过算法。目前有一份某公有云初创公司的全职远程工作，相比于以前的工作自由了许多。未来将会在追求自由的道路上不断前行，期待在路上可以认识更多志趣相投的人。
+你好，我是[「**微扰理论**」](https://x.com/wfnuser)，18年毕业于上海交通大学，做过前端也搞过算法。目前有一份某公有云初创公司的全职远程工作，相比于以前的工作自由了许多。未来将会在追求自由的道路上不断前行，期待在路上可以认识更多志趣相投的人。
 
 本人已经入坑数据库一段时间，还请大家多多指教。微扰酱也是极客时间专栏[《算法实战高手课》](https://time.geekbang.org/column/intro/100100901?code=I%252F1%252FovCrth0wXifam7LWC3eGnJy9VdcYcfWACA1NG%252Fk%253D&utm_term=SPoster&page=A)的作者；欢迎订阅，一起学习工程实战中的算法；需要的话可以找我返现哦～
 
