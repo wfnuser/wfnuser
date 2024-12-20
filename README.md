@@ -36,7 +36,7 @@ I'm a database kernel developer and a passionate open-source software enthusiast
 
 ## 年度总结
 * [Up and Down 微扰酱的2023年度总结](https://mp.weixin.qq.com/s/83E0bFaUdpEwAJygDHBUgQ)
-* [我的阴阳两界 微扰酱的2022年度总结](https://mp.weixin.qq.com/s/83E0bFaUdpEwAJygDHBUgQ)
+* [我的阴阳两界 微扰酱的2022年度总结](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3MTA0OA==&mid=2247484029&idx=1&sn=1556bf5b9f4630b3f77e73f87543f855&chksm=ced821daf9afa8ccd6bd739ec28c541afc6aa691129b268b18256dc7498d22481fee4016a60e&scene=178&cur_album_id=2754624508320022528#rd)
 * [好事接连发生 微扰酱的2021年度总结](https://mp.weixin.qq.com/s/6jgMHmy3w_Qubzurc5OcKA)
 
 
