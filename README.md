@@ -1,8 +1,21 @@
 <h1 align="center">Hi👋 I'm <a href="https://x.com/wfnuser">Qinghao</a>.</h1>
 
-I'm a database kernel developer and a passionate open-source software enthusiast. I have a strong passion for building high-performance database systems and actively contribute to the open-source community.
+I used to be a database kernel developer and a passionate open-source software enthusiast. Currently, I'm an indie hacker in the Web3 space, working on projects like [according.work](https://according.work). 
 
-👋 Open to job opportunities in the field of Software Engineering.
+Despite my current focus, I still have a strong passion for building high-performance database systems and other infrastructures, and I actively contribute to the open-source community.
+
+## Some hackathons I've won:
+
+- [Scroll City Cup Hackathon](https://www.hackquest.io/zh-cn/hackathons/Scroll-City-Cup-Hackathon) - First Prize  
+- [ETH Shenzhen 2024](https://openbuild.xyz/learn/challenges/2040759955) - Second Prize  
+- [EDU Chain Hackathon: Semester 1](https://dorahacks.io/hackathon/educhain/buidl) - Fourth Place  
+- [NeoX Grind Hackathon Hackquest Edition](https://www.hackquest.io/zh-cn/events/neo-x-grind-hackathon-hackquest-edition) - Winner  
+- [Superfluid Hacker House](https://mobile.x.com/FrancescoRenziA/status/1803388546423853131) - Winner  
+- [Polkadot 2024 Bangkok Hackathon](https://dorahacks.io/hackathon/polkadot-2024-bangkok/buidl) - Finalist  
+- [Superfluid Frontier Guild Season 3](https://x.com/Superfluid_HQ/status/1867224117579329724)  
+- [Mina Mini Hackathon](https://x.com/OpenBuildxyz/status/1889620848916807981) - First Prize  
+
+
 
 <h1 align="center">你好👋 我是<a href="https://x.com/wfnuser">微扰理论</a> </h1>
 
