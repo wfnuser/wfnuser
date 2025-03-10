@@ -1,10 +1,12 @@
 <h1 align="center">Hi👋 I'm <a href="https://x.com/wfnuser">Qinghao</a>.</h1>
 
-I used to be a database kernel developer and a passionate open-source software enthusiast. Currently, I'm an indie hacker in the Web3 space, working on projects like [according.work](https://according.work). 
+I used to be a database kernel developer and a passionate open-source software enthusiast. Currently, In August 2024, I decided to go all-in on Web3 as an indie hacker, focusing on projects likelike [according.work](https://according.work). 
 
 Despite my current focus, I still have a strong passion for building high-performance database systems and other infrastructures, and I actively contribute to the open-source community.
 
-## Some hackathons I've won:
+Though new to crypto, I’ve already made an impact:
+
+## Hackathons I’ve won from August 2024:
 
 - [Scroll City Cup Hackathon](https://www.hackquest.io/zh-cn/hackathons/Scroll-City-Cup-Hackathon) - First Prize  
 - [ETH Shenzhen 2024](https://openbuild.xyz/learn/challenges/2040759955) - Second Prize  
