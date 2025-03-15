@@ -46,8 +46,8 @@ Though new to crypto, I’ve already made an impact:
 * [写于「悖论13」撤店之际](https://mp.weixin.qq.com/s/0fxwFS38ex7wXkSAJsRQyw)
 * [Postgres 并行查询源码分析](https://mp.weixin.qq.com/s/ehhPOcSModd0pzVhXELI6g)
 * [ORCA 优化器浅析](https://mp.weixin.qq.com/s/1KnxeC7id1Gi5wD7HOu4sQ)
-* [如何盲拧魔方](https://mp.weixin.qq.com/s?__biz=Mzg4NzY3NDQzMQ==&mid=2247483773&idx=1&sn=ba8465f313595be8000e810e883db9e5&chksm=cf87822df8f00b3b7530006daef791b660c8150b7c6b85560f2d5370f7e2c151a3c3d6a34c94#rd)
-* [如何心算4位数乘法](https://mp.weixin.qq.com/s?__biz=Mzg4NzY3NDQzMQ==&mid=2247483756&idx=1&sn=51a1b1f921a89a9aabfb32e2c893a836&chksm=cf87823cf8f00b2a2eec13f02ff9cd14b991aedcde19a18057ca974bdf338ec0fac5e9c8107d#rd)
+* [如何盲拧魔方](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3MTA0OA==&mid=2247483880&idx=1&sn=8ca0ebe49449d2432195e00a1e739e85&source=41#wechat_redirect)
+* [如何心算4位数乘法](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3MTA0OA==&mid=2247483879&idx=1&sn=2600ecbb3ef2407e4936fba8a5d777b6&source=41#wechat_redirect)
 
 ## 年度总结
 * [Up and Down 微扰酱的2023年度总结](https://mp.weixin.qq.com/s/83E0bFaUdpEwAJygDHBUgQ)
