@@ -8,16 +8,15 @@ Though new to crypto, I’ve already made an impact:
 
 ## Hackathons I’ve won from August 2024:
 
-- [Scroll City Cup Hackathon](https://www.hackquest.io/zh-cn/hackathons/Scroll-City-Cup-Hackathon) - First Prize  
-- [ETH Shenzhen 2024](https://openbuild.xyz/learn/challenges/2040759955) - Second Prize  
-- [EDU Chain Hackathon: Semester 1](https://dorahacks.io/hackathon/educhain/buidl) - Fourth Place  
-- [NeoX Grind Hackathon Hackquest Edition](https://www.hackquest.io/zh-cn/events/neo-x-grind-hackathon-hackquest-edition) - Winner  
-- [Superfluid Hacker House](https://mobile.x.com/FrancescoRenziA/status/1803388546423853131) - Winner  
-- [Polkadot 2024 Bangkok Hackathon](https://dorahacks.io/hackathon/polkadot-2024-bangkok/buidl) - Finalist  
-- [Superfluid Frontier Guild Season 3](https://x.com/Superfluid_HQ/status/1867224117579329724)  
-- [Mina Mini Hackathon](https://x.com/OpenBuildxyz/status/1889620848916807981) - First Prize  
-
-
+- [2024 Scroll City Cup Hackathon](https://www.hackquest.io/zh-cn/hackathons/Scroll-City-Cup-Hackathon) - First Prize  
+- [2024 ETH Shenzhen 2024](https://openbuild.xyz/learn/challenges/2040759955) - Second Prize  
+- [2024 EDU Chain Hackathon: Semester 1](https://dorahacks.io/hackathon/educhain/buidl) - Fourth Place  
+- [2024 NeoX Grind Hackathon Hackquest Edition](https://www.hackquest.io/zh-cn/events/neo-x-grind-hackathon-hackquest-edition) - Winner  
+- [2024 Superfluid Hacker House](https://mobile.x.com/FrancescoRenziA/status/1803388546423853131) - Winner  
+- [2024 Polkadot 2024 Bangkok Hackathon](https://dorahacks.io/hackathon/polkadot-2024-bangkok/buidl) - Finalist  
+- [2025 Superfluid Frontier Guild Season 3](https://x.com/Superfluid_HQ/status/1867224117579329724)  
+- [2025 Mina Mini Hackathon](https://x.com/OpenBuildxyz/status/1889620848916807981) - First Prize
+- [2025 AI Agent HK](https://x.com/OurTinTinLand/status/1910279003287834717) - Best Flow Plugin to Existing AI Agent Frameworks
 
 <h1 align="center">你好👋 我是<a href="https://x.com/wfnuser">微扰理论</a> </h1>
 
