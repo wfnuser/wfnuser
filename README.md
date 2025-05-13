@@ -18,6 +18,7 @@ Though new to crypto, I’ve already made an impact:
 - [2025 Mina Mini Hackathon](https://x.com/OpenBuildxyz/status/1889620848916807981) - First Prize
 - [2025 AI Agent HK](https://x.com/OurTinTinLand/status/1910279003287834717) - Best Flow Plugin to Existing AI Agent Frameworks
 - [2025 First Virtuals Protocol Hackathon](https://x.com/virtuals_io/status/1914323687073001804) - Top 10 Projects
+- [2025 BNB AI Hack: Hack the Future of AI on BNB Chain](https://x.com/BNBChainDevs/status/1922201142202880259) - Tier 4
 
 
 <h1 align="center">你好👋 我是<a href="https://x.com/wfnuser">微扰理论</a> </h1>
