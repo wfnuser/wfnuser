@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm <a href="https://x.com/wfnuser">Qinghao</a>.</h1>
+<h1 align="center">Hi👋 I'm Qinghao.</h1>
 
 I used to be a database kernel developer and a passionate open-source software enthusiast. In August 2024, I decided to go all-in on Web3 as an indie hacker, focusing on projects like [according.work](https://according.work). 
 
@@ -61,7 +61,6 @@ Though new to crypto, I’ve already made an impact:
 如果想更多的了解我，欢迎来关注我的个人公众号「微扰理论」；或者直接微信扫码加微扰酱好友，交个朋友； 备注来意即可～
 ![](banner.png)
 
-[![X Badge](https://img.shields.io/badge/X-wfnuser-blue)](https://www.x.com/wfnuser)
 [![Foo](https://pic.leetcode-cn.com/1641890108-KiCpre-file_1641890104115)](https://www.zhihu.com/people/qin-hao-37) 
 推特求个fo 对目前在做独立开发的我来说就算莫大的支持了 动态也会首发X
 
