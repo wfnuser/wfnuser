@@ -1,5 +1,7 @@
 <h1 align="center">Hi👋 I'm Qinghao.</h1>
 
+I graduated from Shanghai Jiao Tong University with a degree in Electrical Engineering. Over the years, I've worked at Alibaba, ByteDance, Tencent, [EMQX](https://github.com/emqx/emqx), and [Apache Cloudberry](https://github.com/apache/cloudberry).
+
 I used to be a database kernel developer and a passionate open-source software enthusiast. In August 2024, I decided to go all-in on Web3 as an indie hacker, focusing on projects like [according.work](https://according.work). 
 
 Despite my current focus, I still have a strong passion for building high-performance database systems and other infrastructures, and I actively contribute to the open-source community.
