@@ -23,3 +23,6 @@ Though new to crypto, I’ve already made an impact:
 - [2025 BNB AI Hack: Hack the Future of AI on BNB Chain](https://x.com/BNBChainDevs/status/1922201142202880259) - Tier 4
 - [2025 ETH Beijing](https://x.com/PKUBlockchain/status/1924054622106529893) - Second Prize in Public Goods Track
 - [2025 BNB AI Hack: Hack the Future of AI on BNB Chain](https://x.com/BNBCHAIN/status/1933072538684567680) - Tier 3
+
+## Contact Me
+wx: wfnusee
